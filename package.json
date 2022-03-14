@@ -1,0 +1,16 @@
+{
+  "name": "github-mutual-following-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "Black-Hole <158blackhole@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "minimist": "^1.2.5"
+  }
+}
